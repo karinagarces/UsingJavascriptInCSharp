@@ -1,0 +1,10 @@
+C:\Users\Elijah Elrod\source\repos\UsingJavascriptFuncInCSharp\bin\Debug\UsingJavascriptFuncInCSharp.exe.config
+C:\Users\Elijah Elrod\source\repos\UsingJavascriptFuncInCSharp\bin\Debug\UsingJavascriptFuncInCSharp.exe
+C:\Users\Elijah Elrod\source\repos\UsingJavascriptFuncInCSharp\bin\Debug\UsingJavascriptFuncInCSharp.pdb
+C:\Users\Elijah Elrod\source\repos\UsingJavascriptFuncInCSharp\obj\Debug\UsingJavascriptFuncInCSharp.csprojAssemblyReference.cache
+C:\Users\Elijah Elrod\source\repos\UsingJavascriptFuncInCSharp\obj\Debug\UsingJavascriptFuncInCSharp.Form1.resources
+C:\Users\Elijah Elrod\source\repos\UsingJavascriptFuncInCSharp\obj\Debug\UsingJavascriptFuncInCSharp.Properties.Resources.resources
+C:\Users\Elijah Elrod\source\repos\UsingJavascriptFuncInCSharp\obj\Debug\UsingJavascriptFuncInCSharp.csproj.GenerateResource.cache
+C:\Users\Elijah Elrod\source\repos\UsingJavascriptFuncInCSharp\obj\Debug\UsingJavascriptFuncInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Elijah Elrod\source\repos\UsingJavascriptFuncInCSharp\obj\Debug\UsingJavascriptFuncInCSharp.exe
+C:\Users\Elijah Elrod\source\repos\UsingJavascriptFuncInCSharp\obj\Debug\UsingJavascriptFuncInCSharp.pdb
